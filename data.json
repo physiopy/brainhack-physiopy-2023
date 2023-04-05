@@ -1,0 +1,28 @@
+{
+  "schedule":  [
+                  {"date": "Tuesday, November 29",
+                  "times": [{"time": "11h00-14h00 UTC", "event": "PRE-HACK (optional)"},
+                            {"time": "14h00-14h15 UTC", "event": "Welcome"},
+                            {"time": "14h15-14h45 UTC", "event": "Ignite Talk"},
+                            {"time": "14h45-15h15 UTC", "event": "Project Pitches"},
+                            {"time": "15h15-16h30 UTC", "event": "Open Hacking"},
+                            {"time": "16h30-17h00 UTC", "event": "Break!"},
+                            {"time": "17h00-19h00 UTC", "event": "Open Hacking"},
+                            {"time": "19h00-22h00 UTC", "event": "POST-HACK (optional)"}]},
+                  {"date": "Wednesday, November 30",
+                  "times": [{"time": "11h00-14h00 UTC", "event": "PRE-HACK (optional)"},
+                            {"time": "14h00-14h30 UTC", "event": "Project Updates"},
+                            {"time": "14h30-16h00 UTC", "event": "Open Hacking"},
+                            {"time": "16h00-16h30 UTC", "event": "Break!"},
+                            {"time": "16h30-18h00 UTC", "event": "Open Hacking"},
+                            {"time": "18h00-19h00 UTC", "event": "Community Roundtable"},
+                            {"time": "19h00-22h00 UTC", "event": "POST-HACK (optional)"}]},
+                  {"date": "Thursday, December 1",
+                  "times": [{"time": "11h00-14h00 UTC", "event": "PRE-HACK (optional)"},
+                            {"time": "14h00-16h00 UTC", "event": "Open Hacking"},
+                            {"time": "16h00-16h30 UTC", "event": "Break!"},
+                            {"time": "16h30-18h00 UTC", "event": "Open Hacking"},
+                            {"time": "18h00-18h30 UTC", "event": "Unconference!"},
+                            {"time": "18h30-19h00 UTC", "event": "Project Wrap-up"}]}
+                ]
+}
